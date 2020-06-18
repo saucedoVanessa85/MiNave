@@ -1,5 +1,7 @@
 # MiNave
 Videojuego de los años 80
+Come popo Vanessa
+No me robes a mi perrito :c
 import java.awt.Image;
 import java.awt.event.KeyEvent;
 import javax.swing.ImageIcon;
